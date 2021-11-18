@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 1,
+    "art_id": 1,
+    "exhibition_id": 1
+  },
+  {
+    "id": 2,
+    "art_id": 2,
+    "exhibition_id": 1
+  },
+  {
+    "id": 3,
+    "art_id": 3,
+    "exhibition_id": 1
+  },
+  {
+    "id": 4,
+    "art_id": 4,
+    "exhibition_id": 1
+  },
+  {
+    "id": 5,
+    "art_id": 5,
+    "exhibition_id": 1
+  },
+  {
+    "id": 6,
+    "art_id": 6,
+    "exhibition_id": 1
+  },
+  {
+    "id": 7,
+    "art_id": 7,
+    "exhibition_id": 1
+  },
+  {
+    "id": 8,
+    "art_id": 8,
+    "exhibition_id": 1
+  },
+  {
+    "id": 9,
+    "art_id": 9,
+    "exhibition_id": 1
+  },
+  {
+    "id": 10,
+    "art_id": 10,
+    "exhibition_id": 1
+  },
+  {
+    "id": 11,
+    "art_id": 11,
+    "exhibition_id": 1
+  },
+  {
+    "id": 12,
+    "art_id": 12,
+    "exhibition_id": 1
+  },
+  {
+    "id": 13,
+    "art_id": 13,
+    "exhibition_id": 1
+  },
+  {
+    "id": 14,
+    "art_id": 14,
+    "exhibition_id": 1
+  },
+  {
+    "id": 15,
+    "art_id": 15,
+    "exhibition_id": 1
+  },
+  {
+    "id": 16,
+    "art_id": 23,
+    "exhibition_id": 2
+  },
+  {
+    "id": 17,
+    "art_id": 22,
+    "exhibition_id": 2
+  },
+  {
+    "id": 18,
+    "art_id": 21,
+    "exhibition_id": 2
+  },
+  {
+    "id": 19,
+    "art_id": 20,
+    "exhibition_id": 2
+  },
+  {
+    "id": 20,
+    "art_id": 19,
+    "exhibition_id": 2
+  },
+  {
+    "id": 21,
+    "art_id": 18,
+    "exhibition_id": 2
+  },
+  {
+    "id": 22,
+    "art_id": 17,
+    "exhibition_id": 2
+  },
+  {
+    "id": 23,
+    "art_id": 16,
+    "exhibition_id": 2
+  },
+  {
+    "id": 24,
+    "art_id": 29,
+    "exhibition_id": 2
+  },
+  {
+    "id": 25,
+    "art_id": 28,
+    "exhibition_id": 2
+  },
+  {
+    "id": 26,
+    "art_id": 27,
+    "exhibition_id": 2
+  },
+  {
+    "id": 27,
+    "art_id": 26,
+    "exhibition_id": 2
+  },
+  {
+    "id": 28,
+    "art_id": 25,
+    "exhibition_id": 2
+  },
+  {
+    "id": 29,
+    "art_id": 24,
+    "exhibition_id": 2
+  },
+  {
+    "id": 30,
+    "art_id": 40,
+    "exhibition_id": 2
+  },
+  {
+    "id": 31,
+    "art_id": 39,
+    "exhibition_id": 2
+  },
+  {
+    "id": 32,
+    "art_id": 38,
+    "exhibition_id": 2
+  },
+  {
+    "id": 33,
+    "art_id": 37,
+    "exhibition_id": 2
+  },
+  {
+    "id": 34,
+    "art_id": 36,
+    "exhibition_id": 2
+  },
+  {
+    "id": 35,
+    "art_id": 35,
+    "exhibition_id": 2
+  },
+  {
+    "id": 36,
+    "art_id": 34,
+    "exhibition_id": 2
+  },
+  {
+    "id": 37,
+    "art_id": 33,
+    "exhibition_id": 2
+  },
+  {
+    "id": 38,
+    "art_id": 32,
+    "exhibition_id": 2
+  },
+  {
+    "id": 39,
+    "art_id": 31,
+    "exhibition_id": 2
+  },
+  {
+    "id": 40,
+    "art_id": 30,
+    "exhibition_id": 2
+  },
+  {
+    "id": 41,
+    "art_id": 46,
+    "exhibition_id": 2
+  },
+  {
+    "id": 42,
+    "art_id": 45,
+    "exhibition_id": 2
+  },
+  {
+    "id": 43,
+    "art_id": 44,
+    "exhibition_id": 2
+  },
+  {
+    "id": 44,
+    "art_id": 43,
+    "exhibition_id": 2
+  },
+  {
+    "id": 45,
+    "art_id": 42,
+    "exhibition_id": 2
+  },
+  {
+    "id": 46,
+    "art_id": 41,
+    "exhibition_id": 2
+  },
+  {
+    "id": 47,
+    "art_id": 60,
+    "exhibition_id": 2
+  },
+  {
+    "id": 48,
+    "art_id": 59,
+    "exhibition_id": 2
+  },
+  {
+    "id": 49,
+    "art_id": 58,
+    "exhibition_id": 2
+  },
+  {
+    "id": 50,
+    "art_id": 57,
+    "exhibition_id": 2
+  },
+  {
+    "id": 51,
+    "art_id": 56,
+    "exhibition_id": 2
+  },
+  {
+    "id": 52,
+    "art_id": 55,
+    "exhibition_id": 2
+  },
+  {
+    "id": 53,
+    "art_id": 54,
+    "exhibition_id": 2
+  },
+  {
+    "id": 54,
+    "art_id": 53,
+    "exhibition_id": 2
+  },
+  {
+    "id": 55,
+    "art_id": 52,
+    "exhibition_id": 2
+  },
+  {
+    "id": 56,
+    "art_id": 51,
+    "exhibition_id": 2
+  },
+  {
+    "id": 57,
+    "art_id": 50,
+    "exhibition_id": 2
+  },
+  {
+    "id": 58,
+    "art_id": 49,
+    "exhibition_id": 2
+  },
+  {
+    "id": 60,
+    "art_id": 48,
+    "exhibition_id": 2
+  },
+  {
+    "id": 61,
+    "art_id": 47,
+    "exhibition_id": 2
+  },
+  {
+    "id": 62,
+    "art_id": 75,
+    "exhibition_id": 2
+  },
+  {
+    "id": 63,
+    "art_id": 74,
+    "exhibition_id": 2
+  },
+  {
+    "id": 64,
+    "art_id": 73,
+    "exhibition_id": 2
+  },
+  {
+    "id": 65,
+    "art_id": 72,
+    "exhibition_id": 2
+  },
+  {
+    "id": 66,
+    "art_id": 71,
+    "exhibition_id": 2
+  },
+  {
+    "id": 67,
+    "art_id": 70,
+    "exhibition_id": 2
+  },
+  {
+    "id": 68,
+    "art_id": 69,
+    "exhibition_id": 2
+  },
+  {
+    "id": 69,
+    "art_id": 68,
+    "exhibition_id": 2
+  },
+  {
+    "id": 70,
+    "art_id": 67,
+    "exhibition_id": 2
+  },
+  {
+    "id": 71,
+    "art_id": 66,
+    "exhibition_id": 2
+  },
+  {
+    "id": 72,
+    "art_id": 65,
+    "exhibition_id": 2
+  },
+  {
+    "id": 73,
+    "art_id": 64,
+    "exhibition_id": 2
+  },
+  {
+    "id": 74,
+    "art_id": 63,
+    "exhibition_id": 2
+  },
+  {
+    "id": 75,
+    "art_id": 62,
+    "exhibition_id": 2
+  },
+  {
+    "id": 76,
+    "art_id": 61,
+    "exhibition_id": 2
+  },
+  {
+    "id": 77,
+    "art_id": 86,
+    "exhibition_id": 2
+  },
+  {
+    "id": 78,
+    "art_id": 85,
+    "exhibition_id": 2
+  },
+  {
+    "id": 79,
+    "art_id": 84,
+    "exhibition_id": 2
+  },
+  {
+    "id": 80,
+    "art_id": 83,
+    "exhibition_id": 2
+  },
+  {
+    "id": 81,
+    "art_id": 82,
+    "exhibition_id": 2
+  },
+  {
+    "id": 82,
+    "art_id": 81,
+    "exhibition_id": 2
+  },
+  {
+    "id": 83,
+    "art_id": 80,
+    "exhibition_id": 2
+  },
+  {
+    "id": 84,
+    "art_id": 79,
+    "exhibition_id": 2
+  },
+  {
+    "id": 85,
+    "art_id": 78,
+    "exhibition_id": 2
+  },
+  {
+    "id": 86,
+    "art_id": 77,
+    "exhibition_id": 2
+  },
+  {
+    "id": 87,
+    "art_id": 76,
+    "exhibition_id": 2
+  },
+  {
+    "id": 88,
+    "art_id": 87,
+    "exhibition_id": 2
+  },
+  {
+    "id": 89,
+    "art_id": 131,
+    "exhibition_id": 3
+  },
+  {
+    "id": 90,
+    "art_id": 130,
+    "exhibition_id": 3
+  },
+  {
+    "id": 91,
+    "art_id": 129,
+    "exhibition_id": 3
+  },
+  {
+    "id": 92,
+    "art_id": 128,
+    "exhibition_id": 3
+  },
+  {
+    "id": 93,
+    "art_id": 127,
+    "exhibition_id": 3
+  },
+  {
+    "id": 94,
+    "art_id": 126,
+    "exhibition_id": 3
+  },
+  {
+    "id": 95,
+    "art_id": 125,
+    "exhibition_id": 3
+  },
+  {
+    "id": 96,
+    "art_id": 124,
+    "exhibition_id": 3
+  },
+  {
+    "id": 97,
+    "art_id": 123,
+    "exhibition_id": 3
+  },
+  {
+    "id": 98,
+    "art_id": 122,
+    "exhibition_id": 3
+  },
+  {
+    "id": 99,
+    "art_id": 121,
+    "exhibition_id": 3
+  },
+  {
+    "id": 100,
+    "art_id": 120,
+    "exhibition_id": 3
+  },
+  {
+    "id": 101,
+    "art_id": 119,
+    "exhibition_id": 3
+  },
+  {
+    "id": 102,
+    "art_id": 118,
+    "exhibition_id": 3
+  },
+  {
+    "id": 103,
+    "art_id": 117,
+    "exhibition_id": 3
+  },
+  {
+    "id": 104,
+    "art_id": 116,
+    "exhibition_id": 3
+  },
+  {
+    "id": 105,
+    "art_id": 115,
+    "exhibition_id": 3
+  },
+  {
+    "id": 106,
+    "art_id": 114,
+    "exhibition_id": 3
+  },
+  {
+    "id": 107,
+    "art_id": 113,
+    "exhibition_id": 3
+  },
+  {
+    "id": 108,
+    "art_id": 112,
+    "exhibition_id": 3
+  },
+  {
+    "id": 109,
+    "art_id": 111,
+    "exhibition_id": 3
+  },
+  {
+    "id": 110,
+    "art_id": 110,
+    "exhibition_id": 3
+  },
+  {
+    "id": 111,
+    "art_id": 109,
+    "exhibition_id": 3
+  },
+  {
+    "id": 112,
+    "art_id": 108,
+    "exhibition_id": 3
+  },
+  {
+    "id": 113,
+    "art_id": 107,
+    "exhibition_id": 3
+  },
+  {
+    "id": 114,
+    "art_id": 106,
+    "exhibition_id": 3
+  },
+  {
+    "id": 115,
+    "art_id": 105,
+    "exhibition_id": 3
+  },
+  {
+    "id": 116,
+    "art_id": 104,
+    "exhibition_id": 3
+  },
+  {
+    "id": 117,
+    "art_id": 103,
+    "exhibition_id": 3
+  },
+  {
+    "id": 118,
+    "art_id": 102,
+    "exhibition_id": 3
+  },
+  {
+    "id": 119,
+    "art_id": 101,
+    "exhibition_id": 3
+  },
+  {
+    "id": 120,
+    "art_id": 100,
+    "exhibition_id": 3
+  },
+  {
+    "id": 121,
+    "art_id": 99,
+    "exhibition_id": 3
+  },
+  {
+    "id": 122,
+    "art_id": 98,
+    "exhibition_id": 3
+  },
+  {
+    "id": 123,
+    "art_id": 97,
+    "exhibition_id": 3
+  },
+  {
+    "id": 124,
+    "art_id": 96,
+    "exhibition_id": 3
+  },
+  {
+    "id": 125,
+    "art_id": 95,
+    "exhibition_id": 3
+  },
+  {
+    "id": 126,
+    "art_id": 94,
+    "exhibition_id": 3
+  },
+  {
+    "id": 127,
+    "art_id": 93,
+    "exhibition_id": 3
+  },
+  {
+    "id": 128,
+    "art_id": 92,
+    "exhibition_id": 3
+  },
+  {
+    "id": 129,
+    "art_id": 91,
+    "exhibition_id": 3
+  },
+  {
+    "id": 130,
+    "art_id": 90,
+    "exhibition_id": 3
+  },
+  {
+    "id": 131,
+    "art_id": 89,
+    "exhibition_id": 3
+  },
+  {
+    "id": 132,
+    "art_id": 88,
+    "exhibition_id": 3
+  },
+  {
+    "id": 133,
+    "art_id": 157,
+    "exhibition_id": 3
+  },
+  {
+    "id": 134,
+    "art_id": 156,
+    "exhibition_id": 3
+  },
+  {
+    "id": 135,
+    "art_id": 155,
+    "exhibition_id": 3
+  },
+  {
+    "id": 136,
+    "art_id": 154,
+    "exhibition_id": 3
+  },
+  {
+    "id": 137,
+    "art_id": 153,
+    "exhibition_id": 3
+  },
+  {
+    "id": 138,
+    "art_id": 152,
+    "exhibition_id": 3
+  },
+  {
+    "id": 139,
+    "art_id": 151,
+    "exhibition_id": 3
+  },
+  {
+    "id": 140,
+    "art_id": 150,
+    "exhibition_id": 3
+  },
+  {
+    "id": 141,
+    "art_id": 149,
+    "exhibition_id": 3
+  },
+  {
+    "id": 142,
+    "art_id": 148,
+    "exhibition_id": 3
+  },
+  {
+    "id": 143,
+    "art_id": 147,
+    "exhibition_id": 3
+  },
+  {
+    "id": 144,
+    "art_id": 146,
+    "exhibition_id": 3
+  },
+  {
+    "id": 145,
+    "art_id": 145,
+    "exhibition_id": 3
+  },
+  {
+    "id": 146,
+    "art_id": 144,
+    "exhibition_id": 3
+  },
+  {
+    "id": 147,
+    "art_id": 143,
+    "exhibition_id": 3
+  },
+  {
+    "id": 148,
+    "art_id": 142,
+    "exhibition_id": 3
+  },
+  {
+    "id": 149,
+    "art_id": 141,
+    "exhibition_id": 3
+  },
+  {
+    "id": 150,
+    "art_id": 140,
+    "exhibition_id": 3
+  },
+  {
+    "id": 151,
+    "art_id": 139,
+    "exhibition_id": 3
+  },
+  {
+    "id": 152,
+    "art_id": 138,
+    "exhibition_id": 3
+  },
+  {
+    "id": 153,
+    "art_id": 137,
+    "exhibition_id": 3
+  },
+  {
+    "id": 154,
+    "art_id": 136,
+    "exhibition_id": 3
+  },
+  {
+    "id": 155,
+    "art_id": 135,
+    "exhibition_id": 3
+  },
+  {
+    "id": 156,
+    "art_id": 134,
+    "exhibition_id": 3
+  },
+  {
+    "id": 157,
+    "art_id": 133,
+    "exhibition_id": 3
+  },
+  {
+    "id": 158,
+    "art_id": 132,
+    "exhibition_id": 3
+  },
+  {
+    "id": 159,
+    "art_id": 214,
+    "exhibition_id": 4
+  },
+  {
+    "id": 160,
+    "art_id": 213,
+    "exhibition_id": 4
+  },
+  {
+    "id": 161,
+    "art_id": 212,
+    "exhibition_id": 4
+  },
+  {
+    "id": 162,
+    "art_id": 211,
+    "exhibition_id": 4
+  },
+  {
+    "id": 163,
+    "art_id": 210,
+    "exhibition_id": 4
+  },
+  {
+    "id": 164,
+    "art_id": 209,
+    "exhibition_id": 4
+  },
+  {
+    "id": 165,
+    "art_id": 208,
+    "exhibition_id": 4
+  },
+  {
+    "id": 166,
+    "art_id": 207,
+    "exhibition_id": 4
+  },
+  {
+    "id": 167,
+    "art_id": 206,
+    "exhibition_id": 4
+  },
+  {
+    "id": 168,
+    "art_id": 205,
+    "exhibition_id": 4
+  },
+  {
+    "id": 169,
+    "art_id": 204,
+    "exhibition_id": 4
+  },
+  {
+    "id": 170,
+    "art_id": 203,
+    "exhibition_id": 4
+  },
+  {
+    "id": 171,
+    "art_id": 202,
+    "exhibition_id": 4
+  },
+  {
+    "id": 172,
+    "art_id": 201,
+    "exhibition_id": 4
+  },
+  {
+    "id": 173,
+    "art_id": 200,
+    "exhibition_id": 4
+  },
+  {
+    "id": 174,
+    "art_id": 199,
+    "exhibition_id": 4
+  },
+  {
+    "id": 175,
+    "art_id": 198,
+    "exhibition_id": 4
+  },
+  {
+    "id": 176,
+    "art_id": 197,
+    "exhibition_id": 4
+  },
+  {
+    "id": 177,
+    "art_id": 196,
+    "exhibition_id": 4
+  },
+  {
+    "id": 178,
+    "art_id": 195,
+    "exhibition_id": 4
+  },
+  {
+    "id": 179,
+    "art_id": 194,
+    "exhibition_id": 4
+  },
+  {
+    "id": 180,
+    "art_id": 193,
+    "exhibition_id": 4
+  },
+  {
+    "id": 181,
+    "art_id": 192,
+    "exhibition_id": 4
+  },
+  {
+    "id": 182,
+    "art_id": 191,
+    "exhibition_id": 4
+  },
+  {
+    "id": 183,
+    "art_id": 190,
+    "exhibition_id": 4
+  },
+  {
+    "id": 184,
+    "art_id": 189,
+    "exhibition_id": 4
+  },
+  {
+    "id": 185,
+    "art_id": 188,
+    "exhibition_id": 4
+  },
+  {
+    "id": 186,
+    "art_id": 187,
+    "exhibition_id": 4
+  },
+  {
+    "id": 187,
+    "art_id": 186,
+    "exhibition_id": 4
+  },
+  {
+    "id": 188,
+    "art_id": 185,
+    "exhibition_id": 4
+  },
+  {
+    "id": 189,
+    "art_id": 184,
+    "exhibition_id": 4
+  },
+  {
+    "id": 190,
+    "art_id": 183,
+    "exhibition_id": 4
+  },
+  {
+    "id": 191,
+    "art_id": 182,
+    "exhibition_id": 4
+  },
+  {
+    "id": 192,
+    "art_id": 181,
+    "exhibition_id": 4
+  },
+  {
+    "id": 193,
+    "art_id": 180,
+    "exhibition_id": 4
+  },
+  {
+    "id": 194,
+    "art_id": 179,
+    "exhibition_id": 4
+  },
+  {
+    "id": 195,
+    "art_id": 178,
+    "exhibition_id": 4
+  },
+  {
+    "id": 196,
+    "art_id": 177,
+    "exhibition_id": 4
+  },
+  {
+    "id": 197,
+    "art_id": 176,
+    "exhibition_id": 4
+  },
+  {
+    "id": 198,
+    "art_id": 175,
+    "exhibition_id": 4
+  },
+  {
+    "id": 199,
+    "art_id": 174,
+    "exhibition_id": 4
+  },
+  {
+    "id": 200,
+    "art_id": 173,
+    "exhibition_id": 4
+  },
+  {
+    "id": 201,
+    "art_id": 172,
+    "exhibition_id": 4
+  },
+  {
+    "id": 202,
+    "art_id": 171,
+    "exhibition_id": 4
+  },
+  {
+    "id": 203,
+    "art_id": 170,
+    "exhibition_id": 4
+  },
+  {
+    "id": 204,
+    "art_id": 169,
+    "exhibition_id": 4
+  },
+  {
+    "id": 205,
+    "art_id": 168,
+    "exhibition_id": 4
+  },
+  {
+    "id": 206,
+    "art_id": 167,
+    "exhibition_id": 4
+  },
+  {
+    "id": 207,
+    "art_id": 166,
+    "exhibition_id": 4
+  },
+  {
+    "id": 208,
+    "art_id": 165,
+    "exhibition_id": 4
+  },
+  {
+    "id": 209,
+    "art_id": 164,
+    "exhibition_id": 4
+  },
+  {
+    "id": 210,
+    "art_id": 163,
+    "exhibition_id": 4
+  },
+  {
+    "id": 211,
+    "art_id": 162,
+    "exhibition_id": 4
+  },
+  {
+    "id": 212,
+    "art_id": 161,
+    "exhibition_id": 4
+  },
+  {
+    "id": 213,
+    "art_id": 160,
+    "exhibition_id": 4
+  },
+  {
+    "id": 214,
+    "art_id": 159,
+    "exhibition_id": 4
+  },
+  {
+    "id": 215,
+    "art_id": 158,
+    "exhibition_id": 4
+  },
+  {
+    "id": 216,
+    "art_id": 242,
+    "exhibition_id": 4
+  },
+  {
+    "id": 217,
+    "art_id": 241,
+    "exhibition_id": 4
+  },
+  {
+    "id": 218,
+    "art_id": 240,
+    "exhibition_id": 4
+  },
+  {
+    "id": 219,
+    "art_id": 239,
+    "exhibition_id": 4
+  },
+  {
+    "id": 220,
+    "art_id": 238,
+    "exhibition_id": 4
+  },
+  {
+    "id": 221,
+    "art_id": 237,
+    "exhibition_id": 4
+  },
+  {
+    "id": 222,
+    "art_id": 236,
+    "exhibition_id": 4
+  },
+  {
+    "id": 223,
+    "art_id": 235,
+    "exhibition_id": 4
+  },
+  {
+    "id": 224,
+    "art_id": 234,
+    "exhibition_id": 4
+  },
+  {
+    "id": 225,
+    "art_id": 233,
+    "exhibition_id": 4
+  },
+  {
+    "id": 226,
+    "art_id": 232,
+    "exhibition_id": 4
+  },
+  {
+    "id": 227,
+    "art_id": 231,
+    "exhibition_id": 4
+  },
+  {
+    "id": 228,
+    "art_id": 230,
+    "exhibition_id": 4
+  },
+  {
+    "id": 229,
+    "art_id": 229,
+    "exhibition_id": 4
+  },
+  {
+    "id": 230,
+    "art_id": 228,
+    "exhibition_id": 4
+  },
+  {
+    "id": 231,
+    "art_id": 227,
+    "exhibition_id": 4
+  },
+  {
+    "id": 232,
+    "art_id": 226,
+    "exhibition_id": 4
+  },
+  {
+    "id": 233,
+    "art_id": 225,
+    "exhibition_id": 4
+  },
+  {
+    "id": 234,
+    "art_id": 224,
+    "exhibition_id": 4
+  },
+  {
+    "id": 235,
+    "art_id": 223,
+    "exhibition_id": 4
+  },
+  {
+    "id": 236,
+    "art_id": 222,
+    "exhibition_id": 4
+  },
+  {
+    "id": 237,
+    "art_id": 221,
+    "exhibition_id": 4
+  },
+  {
+    "id": 238,
+    "art_id": 220,
+    "exhibition_id": 4
+  },
+  {
+    "id": 239,
+    "art_id": 219,
+    "exhibition_id": 4
+  },
+  {
+    "id": 240,
+    "art_id": 218,
+    "exhibition_id": 4
+  },
+  {
+    "id": 241,
+    "art_id": 217,
+    "exhibition_id": 4
+  },
+  {
+    "id": 242,
+    "art_id": 216,
+    "exhibition_id": 4
+  },
+  {
+    "id": 243,
+    "art_id": 215,
+    "exhibition_id": 4
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Ink",
+    "area": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Pencil",
+    "area": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Digital",
+    "area": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Marvel Comics",
+    "area": 2,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 5,
+    "name": "DC Comics",
+    "area": 2,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 6,
+    "name": "H. P. Lovecraft",
+    "area": 2,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 7,
+    "name": "Diogo Ferreira",
+    "area": 3,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Philip Tan",
+    "area": 3,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 9,
+    "name": "Jim Lee",
+    "area": 3,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 10,
+    "name": "Michael C. Sta. Maria",
+    "area": 3,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 11,
+    "name": "Red",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 12,
+    "name": "Orange",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 13,
+    "name": "Yellow",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 14,
+    "name": "Green",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 15,
+    "name": "Cyan",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 16,
+    "name": "Blue",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 17,
+    "name": "Violet",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 18,
+    "name": "Black",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 19,
+    "name": "White",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 20,
+    "name": "Image Comics",
+    "area": 2,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 21,
+    "name": "Watercolor",
+    "area": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 22,
+    "name": "Colored Pencils",
+    "area": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 23,
+    "name": "Brown",
+    "area": 5,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 24,
+    "name": "Elmer @ellery3173",
+    "area": 4,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 25,
+    "name": "Liezl Buenaventura - lizzbuenaventura (deviantart)",
+    "area": 4,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 26,
+    "name": "knockmesilly (deviant)",
+    "area": 4,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 27,
+    "name": "Matt James",
+    "area": 4,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 28,
+    "name": "Acrylics",
+    "area": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 29,
+    "name": "Dark House Comics",
+    "area": 2,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 30,
+    "name": "Dynamite Comics",
+    "area": 2,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 31,
+    "name": "Scott Williams",
+    "area": 4,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 32,
+    "name": "Alex Sinclair",
+    "area": 4,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 33,
+    "name": "Jeremiah Skipper",
+    "area": 4,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 34,
+    "name": "seanE on Deviantart",
+    "area": 4,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 35,
+    "name": "Thomas Mason",
+    "area": 4,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  }
+]
