@@ -1,5 +1,7 @@
-import numpy as np
+import time
 import load_data
+import numpy as np
+import generate_html
 
 # Load data
 data = load_data.load()
@@ -14,8 +16,8 @@ for i, obj in data.iterrows():
     row_index = i
     obj_id = obj['ID']
     obj_type = obj['TYPE']
-    obj_exhibition = obj['EXHIBITION']
     obj_tags = obj['TAGS']
+    obj_exhibition = obj['EXHIBITION']
 
     # Second loop through all objects (for comparison)
     for j, obj2 in data.iterrows():
@@ -24,8 +26,8 @@ for i, obj in data.iterrows():
         column_index = j
         obj2_id = obj2['ID']
         obj2_type = obj2['TYPE']
-        obj2_exhibition = obj2['EXHIBITION']
         obj2_tags = obj2['TAGS']
+        obj2_exhibition = obj2['EXHIBITION']
 
         # Check if it is the same object
         if i == j:
@@ -41,7 +43,7 @@ for i, obj in data.iterrows():
             if obj_exhibition == obj2_exhibition:
                 similarity_matrix[row_index][column_index] += 1
 
-            # Find tags contained in both objects
+            # Find tags contained in both objects (includes: year, colors, materials, etc.)
             similar_tags = np.intersect1d(obj_tags, obj2_tags)
             similarity_matrix[row_index][column_index] += len(similar_tags)
 
@@ -65,29 +67,26 @@ for i in range(0, data.shape[0]):
 
 # Concatenate the new column to the main dataframe
 data['SIMILAR ARTS'] = new_data_column
-print(data)
 
-# # Object to test (index=0, id=1)
-# print(similarity_matrix[0])
-#
-# # Get indexes of the 5 maximum values
-# ind = np.argpartition(similarity_matrix[0], -5)[-5:]
-# print(ind)
-# print(similarity_matrix[0][ind])
-#
-# # sort
-# print("------------------sorted---------------------")
-# sorted_indexes = ind[np.argsort(similarity_matrix[0][ind])]
-# sorted_values = similarity_matrix[0][sorted_indexes]
-# print(sorted_indexes)
-# print(sorted_values)
-#
-# # reversed sort
-# print("------------------most similar---------------------")
-# most_similar_indexes = list(reversed(sorted_indexes))
-# most_similar_values = similarity_matrix[0][most_similar_indexes]
-# print(most_similar_indexes)
-# print(most_similar_values)
+# Results for Philip Tan selected arts
+generate_html.similar_items(data, 86, 'Philip Tan - Dot Product - Colored Image')
+time.sleep(2)
+generate_html.similar_items(data, 41, 'Philip Tan - Dot Product - Black and White Image')
 
+# Results for Michael Sta. Maria selected arts
+time.sleep(2)
+generate_html.similar_items(data, 130, 'Michael Sta. M. - Dot Product - Colored Image')
+time.sleep(2)
+generate_html.similar_items(data, 138, 'Michael Sta. M. - Dot Product - Black and White Image')
 
+# Results for Diogo Ferreira selected arts
+time.sleep(2)
+generate_html.similar_items(data, 0, 'Diogo Ferreira - Dot Product - Colored Image')
+time.sleep(2)
+generate_html.similar_items(data, 10, 'Diogo Ferreira - Dot Product - Black and White Image')
 
+# Results for Jim Lee selected arts
+time.sleep(2)
+generate_html.similar_items(data, 240, 'Jim Lee - Dot Product - Colored Image')
+time.sleep(2)
+generate_html.similar_items(data, 181, 'Jim Lee - Dot Product - Black and White Image')

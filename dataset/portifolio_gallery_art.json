@@ -1,0 +1,2422 @@
+[
+  {
+    "id": 1,
+    "title": "Spiderman",
+    "subtitle": "Peter Parker",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Spiderman\r\nSubtitle: Peter Parker\r\nYear: 2019\r\nMaterials: ink, colored pencils, paper\r\nInspiration: Marvel Comics\r\nColors: red, cyan",
+    "image": "media/images/drawings/d5694bc986304473af324798588633c0.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 2,
+    "title": "Adam Warlock",
+    "subtitle": "Adam Magus",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Adam Warlock\r\nSubtitle: Adam Magus\r\nYear: 2017\r\nMaterials: ink, colored pencils, acrylics\r\nInspiration: Marvel Comics\r\nColors: red, orange, yellow, brown",
+    "image": "media/images/drawings/82b1e13f640e4eaaaad32afff642e8ec.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 3,
+    "title": "Thanos and Death",
+    "subtitle": "Thanos and Death",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Thanos and Death\r\nSubtitle: Thanos and Death\r\nYear: 2017\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: orange, yellow, green, cyan, blue, violet",
+    "image": "media/images/drawings/ccbb2036399f4fd19ac54edf03aaebaf.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 4,
+    "title": "Shazam",
+    "subtitle": "Billy Batson",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Shazam\r\nSubtitle: Billy Batson\r\nYear: 2018\r\nMaterials: Pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/f0432b106ab647d1a5173b6f26d0b8fe.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 5,
+    "title": "The Batman",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2015\r\nMaterials: Ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/0170eb940e2d49a0a96464102015ae04.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 6,
+    "title": "Spawn",
+    "subtitle": "Albert Francis Simmons",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Spawn\r\nSubtitle: Al Simmons\r\nYear: 2015\r\nMaterials: Ink, colored pencils\r\nInspiration: Image Comics\r\nColors: black, red",
+    "image": "media/images/drawings/fa76e1212ef64826bc32fb6f1daa54b4.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 7,
+    "title": "Daredevil",
+    "subtitle": "Matt Murdock",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Daredevil\r\nSubtitle: Matt Murdock\r\nYear: 2018\r\nMaterials: Ink, colored pencils\r\nInspiration: Marvel Comics\r\nColors: black, red",
+    "image": "media/images/drawings/43f1e0bd344f4782a57235b2cedc4042.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 8,
+    "title": "Dreadstar",
+    "subtitle": "Dreadstar",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Dreadstar\r\nSubtitle: Dreadstar\r\nYear: 2019\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: red, orange, yellow, cyan, vlue, violet, white",
+    "image": "media/images/drawings/fb782e8df941452da1926209509d3f1b.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 9,
+    "title": "Hulk",
+    "subtitle": "Bruce Banner",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Hulk\r\nSubtitle: Bruce Banner\r\nYear: 2017\r\nMaterials: ink, digital\r\nInspiration: Marvel Comics\r\nColors: green, orange,",
+    "image": "media/images/drawings/04f628cd3e8e41f1b511a59e059464ff.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 10,
+    "title": "Cthulhu",
+    "subtitle": "Cthulhu",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Cthulhu\r\nSubtitle: Bruce Banner\r\nYear: 2018\r\nMaterials: ink, watercolor\r\nInspiration: H. P. Lovecraft\r\nColors: green, violet, yellow",
+    "image": "media/images/drawings/21ab81c180824164a41a701e60e1c6a0.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 11,
+    "title": "Skeleton Sorcerer",
+    "subtitle": "Skeleton Sorcerer",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Skeleton Sorcerer\r\nSubtitle: Skeleton Sorcerer\r\nYear: 2016\r\nMaterials: ink, pencil\r\nInspiration: H. P. Lovecraft\r\nColors: black, white",
+    "image": "media/images/drawings/ec80c0b68e1f492ca39ad04a21a543e8.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 12,
+    "title": "Disgrace and Terror",
+    "subtitle": "Age of Satan",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Disgrace and Terror\r\nSubtitle: Age of Satan\r\nYear: 2018\r\nMaterials: ink, colored pencils, acrylics\r\nInspiration: H. P. Lovecraft\r\nColors: black, white",
+    "image": "media/images/drawings/ab04c8417fd248a48d0d169beffcaece.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 13,
+    "title": "Cat",
+    "subtitle": "Cat",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Cat\r\nSubtitle: Cat\r\nYear: 2015\r\nMaterials: ink, colored pencils\r\nInspiration: animals\r\nColors: cyan, black, brown",
+    "image": "media/images/drawings/067479d435d342dda8c2bce775cbf9bd.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 14,
+    "title": "God of War",
+    "subtitle": "God of War",
+    "description": "Artist: Diogo Ferreira\r\nTitle: God of War\r\nSubtitle: God of War\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: games\r\nColors: black, white",
+    "image": "media/images/drawings/276921e4b613406cb63a298abeb17f4a.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 15,
+    "title": "Anubis",
+    "subtitle": "God of Death",
+    "description": "Artist: Diogo Ferreira\r\nTitle: Anubis\r\nSubtitle: God of Death\r\nYear: 2015\r\nMaterials: pencil, ink\r\nInspiration: old egypt\r\nColors: black, white",
+    "image": "media/images/drawings/c9c5e661efb44addb5f4ba72d6d357ed.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 16,
+    "title": "Adam Warlock",
+    "subtitle": "Adam",
+    "description": "Artist: Philip Tan\r\nTitle: Adam Warlock\r\nSubtitle: Adam\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/8dd2ab81334847b98437161383b38d21.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 17,
+    "title": "Angel",
+    "subtitle": "Warren Kenneth Worthington III",
+    "description": "Artist: Philip Tan\r\nTitle: Angel\r\nSubtitle: Warren Kenneth Worthington III\r\nYear: 2017\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/349078deb80f4846b93e494b40e14e4d.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 18,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Philip Tan\r\nTitle: Aquaman\r\nSubtitle: \r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e06ce8ed5b3944628d27a1aa2d506d7f.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 19,
+    "title": "Batgirl",
+    "subtitle": "Betty Kane",
+    "description": "Artist: Philip Tan\r\nTitle: Batgirl\r\nSubtitle: Betty Kane\r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4c76db9ecbaf4616959df814fef2630e.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 20,
+    "title": "Batgirl",
+    "subtitle": "Betty Kane",
+    "description": "Artist: Philip Tan\r\nTitle: Batgirl\r\nSubtitle: Betty Kane\r\nYear: 2015\r\nMaterials: digital\r\nInspiration: DC Comics\r\nColors: orange, green, violet",
+    "image": "media/images/drawings/912b622925e24fbe965341d5e6d04900.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 21,
+    "title": "Batman & Poison Ivy",
+    "subtitle": "Bruce Wayne & Dr. Pamela Lillian Isley",
+    "description": "Artist: Philip Tan\r\nTitle: Batman & Poison Ivy\r\nSubtitle: Bruce Wayne & Dr. Pamela Lillian Isley\r\nYear: 2008\r\nMaterials: digital\r\nInspiration: DC Comics\r\nColors: orange, yellow, green",
+    "image": "media/images/drawings/0f3b9c799c9944809cddf32297f4d343.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 22,
+    "title": "Black Bolt",
+    "subtitle": "Blackagar Boltagon",
+    "description": "Artist: Philip Tan\r\nTitle: Black Bolt\r\nSubtitle: \r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/bb6b5f4019eb404dada40075beb36aa3.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 23,
+    "title": "Black Canary",
+    "subtitle": "Dinah Drake / Dinah Laurel Lance.",
+    "description": "Artist: Philip Tan\r\nTitle: Black Canary\r\nSubtitle: Dinah Drake / Dinah Laurel Lance.\r\nYear: 2015\r\nMaterials: pencil \r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/720613e1d0e9465d98dae2ff70875118.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 24,
+    "title": "Black Cat",
+    "subtitle": "Felicia Hardy",
+    "description": "Artist: Philip Tan\r\nTitle: Black Cat\r\nSubtitle: Felicia Hardy\r\nYear: 2017\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/af05e996fb3748fcb35ff19d3a0266cc.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 25,
+    "title": "Black Cat",
+    "subtitle": "Felicia Hardy",
+    "description": "Artist: Philip Tan\r\nTitle: Black Cat\r\nSubtitle: Felicia Hardy\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e2975839f90b47c4b60d56df6d19fa85.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 26,
+    "title": "Black Manta",
+    "subtitle": "David Hyde",
+    "description": "Artist: Philip Tan\r\nTitle: Black Manta\r\nSubtitle: David Hyde\r\nYear: 2010\r\nMaterials: watercolor\r\nInspiration: DC Comics\r\nColors: red, cyan, blue",
+    "image": "media/images/drawings/758585e5943d4be884a3200c774e6dd7.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 27,
+    "title": "Black Panther",
+    "subtitle": "T'Challa",
+    "description": "Artist: Philip Tan\r\nTitle: Black Panther\r\nSubtitle: T'Challa\r\nYear: 2014\r\nMaterials: ink, pencil \r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a227d5df64c24bf78b10ca792b5d7f1a.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 28,
+    "title": "Black Panther",
+    "subtitle": "T'Challa",
+    "description": "Artist: Philip Tan\r\nTitle: Black Panther\r\nSubtitle: T'Challa\r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/758c657497ac46e38c3d272c7227c5f5.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 29,
+    "title": "Capitain America",
+    "subtitle": "Steve Rogers",
+    "description": "Artist: Philip Tan\r\nTitle: Capitain America\r\nSubtitle: Steve Rogers\r\nYear: 2014\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7dc500e7c4544a688c449b65ed19a254.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 30,
+    "title": "Daredevil",
+    "subtitle": "Matt Murdock",
+    "description": "Artist: Philip Tan\r\nTitle: Daredevil\r\nSubtitle: Matt Murdock\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9e61cbb424154b5992e0126961cec18d.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 31,
+    "title": "Darkseid",
+    "subtitle": "Darkseid",
+    "description": "Artist: Philip Tan\r\nTitle: Darkseid\r\nSubtitle: Darkseid\r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: DC comics\r\nColors: black, white",
+    "image": "media/images/drawings/811864a789134789b2814697ab455efd.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 32,
+    "title": "Dawnstar",
+    "subtitle": "Dawnstar",
+    "description": "Artist: Philip Tan\r\nTitle: Dawnstar\r\nSubtitle: Dawnstar\r\nYear: 2017\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9383b11a7e3e4a2ebb5a6f53f199f2d9.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 33,
+    "title": "Dr. Doom",
+    "subtitle": "Victor Von Doom",
+    "description": "Artist: Philip Tan\r\nTitle: Dr. Doom\r\nSubtitle: Victor Von Doom\r\nYear: 2009\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e438006fdcb4488f964480052000bf33.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 34,
+    "title": "Dr. Doom",
+    "subtitle": "Victor Von Doom",
+    "description": "Artist: Philip Tan\r\nTitle: Dr. Doom\r\nSubtitle: Victor Von Doom\r\nYear: 2015\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a7a3e45991674ef3af022159dea83f14.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 35,
+    "title": "Firelord",
+    "subtitle": "Pyreus Kril",
+    "description": "Artist: Philip Tan\r\nTitle: Firelord\r\nSubtitle: Pyreus Kril\r\nYear: 2012\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/8084bc24921c4a868e4c972b9e875caf.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 36,
+    "title": "Gambit",
+    "subtitle": "Remy Etienne LeBeau",
+    "description": "Artist: Philip Tan\r\nTitle: Gambit\r\nSubtitle: Remy Etienne LeBeau\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4708274645f14322ab47fe09d3291960.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 37,
+    "title": "Goblin Queen",
+    "subtitle": "Madelyne Jennifer Pryor",
+    "description": "Artist: Philip Tan\r\nTitle: Goblin Queen\r\nSubtitle: Madelyne Jennifer Pryor\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics \r\nColors: black, white",
+    "image": "media/images/drawings/67439a4cb63e47039aa47683f47b30e5.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 38,
+    "title": "Harley Quinn",
+    "subtitle": "Harleen Frances Quinzel",
+    "description": "Artist: Philip Tan\r\nTitle: Harley Quinn\r\nSubtitle: Harleen Frances Quinzel\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a9d224df555846528fa02a6057bde14e.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 39,
+    "title": "Hela",
+    "subtitle": "ruler of Hel and Niflheim",
+    "description": "Artist: Philip Tan\r\nTitle: Hela\r\nSubtitle: Ruler of Hel and Niflheim\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/81f92042804c48b9a417a74b4af55884.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 40,
+    "title": "Hulk",
+    "subtitle": "Transformation",
+    "description": "Artist: Philip Tan\r\nTitle: Hulk\r\nSubtitle: Transformation\r\nYear: 2016\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c14bee10befc453babd1cfbba7d35494.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 41,
+    "title": "Huntress",
+    "subtitle": "Helena Rosa Bertinelli",
+    "description": "Artist: Philip Tan\r\nTitle: Huntress\r\nSubtitle: Helena Rosa Bertinelli\r\nYear: 2017\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/f846a16a14644ae3b02c9eb310f693b0.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 42,
+    "title": "Invisible Girl",
+    "subtitle": "Susan \"Sue\" Storm Richards",
+    "description": "Artist: Philip Tan\r\nTitle: Invisible Girl\r\nSubtitle: Susan \"Sue\" Storm Richards\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/8a04bd11decf47e99f0c35c7145624e7.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 43,
+    "title": "Iron Man",
+    "subtitle": "Tony Stark",
+    "description": "Artist: Philip Tan\r\nTitle: Iron Man\r\nSubtitle: Tony Stark\r\nYear: 2012\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/5cd24b97c3ed4740b4b7e2eca1c56e1e.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 44,
+    "title": "Dark Phoenix",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Philip Tan\r\nTitle: Dark Phoenix\r\nSubtitle: Jean Elaine Grey\r\nYear: 2019\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/cf23acc05a7844e5a6fca53bee61d53d.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 45,
+    "title": "Dark Phoenix",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Philip Tan\r\nTitle: Dark Phoenix\r\nSubtitle: Jean Elaine Grey\r\nYear: 2013\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/81cc29e161724be4962624d09874e162.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 46,
+    "title": "Dark Phoenix",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Philip Tan\r\nTitle: Dark Phoenix\r\nSubtitle: Jean Elaine Grey\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c042e424f6454367974f4d209e6a77cc.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 47,
+    "title": "Jocasta",
+    "subtitle": "Jocasta",
+    "description": "Artist: Philip Tan\r\nTitle: Jocasta\r\nSubtitle: Jocasta\r\nYear: 2015\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4ba3619430d7436f8a3357fa7c47bbc7.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 48,
+    "title": "Kingpin",
+    "subtitle": "Wilson Grant Fisk",
+    "description": "Artist: Philip Tan\r\nTitle: Kingpin\r\nSubtitle: Wilson Grant Fisk\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/661f1805e3604cac97d5b4cfb5c98fcd.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 49,
+    "title": "Loki",
+    "subtitle": "God of Mischief",
+    "description": "Artist: Philip Tan\r\nTitle: Loki\r\nSubtitle: God of Mischief\r\nYear: 2012\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d7268393fda6464f8c5151161e2c8584.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 50,
+    "title": "Magneto",
+    "subtitle": "Max Eisenhardt",
+    "description": "Artist: Philip Tan\r\nTitle: Magneto\r\nSubtitle: Max Eisenhardt\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/8fef6850a7e04824b4c2840b85bff6fd.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 51,
+    "title": "Martian Manhunter",
+    "subtitle": "J'onn J'onzz",
+    "description": "Artist: Philip Tan\r\nTitle: Martian Manhunter\r\nSubtitle: J'onn J'onzz\r\nYear: 2018\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d19fa20158d9489a998e877eccd9cb73.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 52,
+    "title": "Marvel Girl",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Philip Tan\r\nTitle: Marvel Girl\r\nSubtitle: Jean Elaine Grey\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c51980f955c44d558972b9a77ba3cb29.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 53,
+    "title": "Marvel Girl",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Philip Tan\r\nTitle: Marvel Girl\r\nSubtitle: Jean Elaine Grey\r\nYear: 2018\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7e38366d21cb418f8eb926246d12aba0.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 54,
+    "title": "Medusa",
+    "subtitle": "Medusalith Amaquelin-Boltagon",
+    "description": "Artist: Philip Tan\r\nTitle: Medusa\r\nSubtitle: Medusalith Amaquelin-Boltagon\r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1a25cd6b498149509a6638d5f01c1f94.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 55,
+    "title": "Mockingbird",
+    "subtitle": "Barbara \"Bobbi\" Morse",
+    "description": "Artist: Philip Tan\r\nTitle: Mockingbird\r\nSubtitle: Barbara \"Bobbi\" Morse\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/25f62fa9511d435cafade2059ed2ef99.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 56,
+    "title": "Moon Knight",
+    "subtitle": "Marc Spector",
+    "description": "Artist: Philip Tan\r\nTitle: Moon Knight\r\nSubtitle: Marc Spector\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/097a2dacb504470aba09f5d38e4dda41.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 57,
+    "title": "Nightcrawler",
+    "subtitle": "Kurt Wagner",
+    "description": "Artist: Philip Tan\r\nTitle: Nightcrawler\r\nSubtitle: Kurt Wagner\r\nYear: 2012\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/88738dee23fd46b094a839fbe2e8ba72.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 58,
+    "title": "Nikki",
+    "subtitle": "Nicholette \"Nikki\" Gold",
+    "description": "Artist: Philip Tan\r\nTitle: Nikki\r\nSubtitle: Nicholette \"Nikki\" Gold\r\nYear: 2012\r\nMaterials: ink, acrylics\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/31ba8d7c859d4fb1963312a88b636ba7.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 59,
+    "title": "Psylocke",
+    "subtitle": "Elizabeth \"Betsy\" Braddock",
+    "description": "Artist: Philip Tan\r\nTitle: Psylocke\r\nSubtitle: Elizabeth \"Betsy\" Braddock\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6bbe08110f6d4f52a9a5166095c3359f.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 60,
+    "title": "Psylocke & Colossus",
+    "subtitle": "Elizabeth \"Betsy\" Braddock and Piotr \"Peter\" Nikolayevich Rasputin",
+    "description": "Artist: Philip Tan\r\nTitle: Psylocke & Colossus\r\nSubtitle: Elizabeth \"Betsy\" Braddock and Piotr \"Peter\" Nikolayevich Rasputin\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/5cd75c52604a4105b0b6d6d55af03514.png",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 61,
+    "title": "Raven",
+    "subtitle": "Raven",
+    "description": "Artist: Philip Tan\r\nTitle: Raven\r\nSubtitle: Raven\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: DC Comics \r\nColors: black, white",
+    "image": "media/images/drawings/addd59e9c3ce4d818153e46290b84576.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 62,
+    "title": "Rocket Raccoon",
+    "subtitle": "Rocket Raccoon",
+    "description": "Artist: Philip Tan\r\nTitle: Rocket Raccoon\r\nSubtitle: Rocket Raccoon\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, whit",
+    "image": "media/images/drawings/0d3ba6a833054c91aec5daf9e694f553.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 63,
+    "title": "Rogue",
+    "subtitle": "Anna Marie",
+    "description": "Artist: Philip Tan\r\nTitle: Rogue\r\nSubtitle: Anna Marie\r\nYear: 2014\r\nMaterials: pencil \r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/54e6cfd39f7343328773deee7f94c77a.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 64,
+    "title": "Sabretooth",
+    "subtitle": "Victor Creed",
+    "description": "Artist: Philip Tan\r\nTitle: Sabretooth\r\nSubtitle: Victor Creed\r\nYear: 2015\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9f49be903e7543198833601dbd22f754.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 65,
+    "title": "Scarlet Witch",
+    "subtitle": "Wanda Maximoff",
+    "description": "Artist: Philip Tan\r\nTitle: Scarlet Witch\r\nSubtitle: Wanda Maximoff\r\nYear: 2013 \r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/3633a1e0e27d4b749c69ad77f3a9dfaf.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 66,
+    "title": "Scarlet Witch",
+    "subtitle": "Wanda Maximoff",
+    "description": "Artist: Philip Tan\r\nTitle: Scarlet Witch\r\nSubtitle: Wanda Maximoff\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a46c9ddb7c484ddd9a0d6e76f42961e8.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 67,
+    "title": "Scarlet Witch",
+    "subtitle": "Wanda Maximoff",
+    "description": "Artist: Philip Tan\r\nTitle: Scarlet Witch\r\nSubtitle: Wanda Maximoff\r\nYear: 2015\r\nMaterials: digital\r\nInspiration: Marvel Comics \r\nColors: red, violet, black, brown",
+    "image": "media/images/drawings/88807765c2d2465798cc5a1729fbabb9.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 68,
+    "title": "Sersi",
+    "subtitle": "Sersi",
+    "description": "Artist: Philip Tan\r\nTitle: Sersi\r\nSubtitle: Sersi\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7e058725832a45c790cfa691871070b1.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 69,
+    "title": "Spawn",
+    "subtitle": "Al Simmons",
+    "description": "Artist: Philip Tan\r\nTitle: Spawn\r\nSubtitle: Al Simmons\r\nYear: 2007\r\nMaterials: pencil\r\nInspiration: Image Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a4a67c654028411394b15bd5194165ea.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 70,
+    "title": "Spiderman",
+    "subtitle": "Peter Parker",
+    "description": "Artist: Philip Tan\r\nTitle: Spiderman\r\nSubtitle: Peter Parker\r\nYear: 2020\r\nMaterials: pencil, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9b8fb39c44c54f948297480f413cd7d5.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 71,
+    "title": "Starman",
+    "subtitle": "Kingdom Come",
+    "description": "Artist: Philip Tan\r\nTitle: Starman\r\nSubtitle: Kingdom Come\r\nYear: 2011\r\nMaterials: ink, watercolor, acrylics\r\nInspiration: DC Comics\r\nColors: black, brown, orange",
+    "image": "media/images/drawings/db778c5cca1b42f9b0666ae410faff14.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 72,
+    "title": "Storm",
+    "subtitle": "Ororo Munroe",
+    "description": "Artist: Philip Tan\r\nTitle: Storm\r\nSubtitle: Ororo Munroe\r\nYear: 2014\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d92f9924e56b481ba790118c1304e7c9.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 73,
+    "title": "Storm",
+    "subtitle": "Ororo Munroe",
+    "description": "Artist: Philip Tan\r\nTitle: Storm\r\nSubtitle: Ororo Munroe\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/5da86937100e4eb3bb1874a1f877d5d1.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 74,
+    "title": "Storm",
+    "subtitle": "Ororo Munroe",
+    "description": "Artist: Philip Tan\r\nTitle: Storm\r\nSubtitle: Ororo Munroe\r\nYear: 2012\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6fa46fd6b781408d95a937a9eff2eb54.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 75,
+    "title": "Storm",
+    "subtitle": "Ororo Munroe",
+    "description": "Artist: Philip Tan\r\nTitle: Storm\r\nSubtitle: Ororo Munroe\r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b953052836d94daca3f6773dde812475.jpg",
+    "type": 1,
+    "created_at": "2021-11-12",
+    "user_id": 1
+  },
+  {
+    "id": 76,
+    "title": "Supergirl",
+    "subtitle": "Kara Zor-El",
+    "description": "Artist: Philip Tan\r\nTitle: Supergirl\r\nSubtitle: Kara Zor-El\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d56c4fc4f52641b7a3b63f369230c07d.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 77,
+    "title": "Thanos",
+    "subtitle": "Thanos",
+    "description": "Artist: Philip Tan\r\nTitle: Thanos\r\nSubtitle: Thanos\r\nYear: 2006\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/eddf16fa72dc41e68f4f99a60559a37a.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 78,
+    "title": "Flash",
+    "subtitle": "Barry Allen",
+    "description": "Artist: Philip Tan\r\nTitle: Flash\r\nSubtitle: Barry Allen\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6d1879110907480aa6b57a97ffc61c52.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 79,
+    "title": "Flash",
+    "subtitle": "Barry Allen",
+    "description": "Artist: Philip Tan\r\nTitle: Flash\r\nSubtitle: Barry Allen\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/655d81c8e2f6439e886f7726b95bca9a.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 80,
+    "title": "Penguin",
+    "subtitle": "Oswald Chesterfield Cobblepot",
+    "description": "Artist: Philip Tan\r\nTitle: Penguin\r\nSubtitle: Oswald Chesterfield Cobblepot\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/fad9e04e33574695ba0af78d696ec7d6.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 81,
+    "title": "Thor",
+    "subtitle": "Thor Odinson",
+    "description": "Artist: Philip Tan\r\nTitle: Thor\r\nSubtitle: Thor Odinson\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ee1b3403698e43478e0c586583dece6b.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 82,
+    "title": "Thor",
+    "subtitle": "Thor Odinson",
+    "description": "Artist: Philip Tan\r\nTitle: Thor\r\nSubtitle: Thor Odinson\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/553a63e378f94dca947019a888a07060.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 83,
+    "title": "Thor",
+    "subtitle": "Thor Odinson",
+    "description": "Artist: Philip Tan\r\nTitle: Thor\r\nSubtitle: Thor Odinson\r\nYear: 2006\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white, brown",
+    "image": "media/images/drawings/284a48f5a01b492eba543295cc2a80b1.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 84,
+    "title": "Tigra",
+    "subtitle": "Greer Grant Nelson",
+    "description": "Artist: Philip Tan\r\nTitle: Tigra\r\nSubtitle: Greer Grant Nelson\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4e9e36f1f93d416a9363d233757747e0.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 85,
+    "title": "Valkyrie",
+    "subtitle": "Brunnhilde",
+    "description": "Artist: Philip Tan\r\nTitle: Valkyrie\r\nSubtitle: Brunnhilde\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9bf4e0f81e3947f58d612ed67a7ced9c.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 86,
+    "title": "Viper",
+    "subtitle": "Ophelia Sarkissian",
+    "description": "Artist: Philip Tan\r\nTitle: Viper\r\nSubtitle: Ophelia Sarkissian\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/bbb1ba58c03d40ee9a7c622579df9a36.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 87,
+    "title": "Kitty",
+    "subtitle": "Katherine Anne \"Kitty\" Pryde",
+    "description": "Artist: Philip Tan\r\nTitle: Kitty\r\nSubtitle: Katherine Anne \"Kitty\" Pryde\r\nYear: 2009\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: yellow, black, brown",
+    "image": "media/images/drawings/1243a96994d34cacb3fa56e237c9f816.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 88,
+    "title": "Starhawk",
+    "subtitle": "Aleta Ogord",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Starhawk\r\nSubtitle: Aleta Ogord\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7fc725da6ccc46bd935d8b5fdf1629d8.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 89,
+    "title": "Angela",
+    "subtitle": "Angela of the guardians of the galaxy",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Angela\r\nSubtitle: Angela of the guardians of the galaxy\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/cd48845ffa8a4b5f87eae95386da558d.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 90,
+    "title": "Jade",
+    "subtitle": "Jennifer-Lynn Hayden",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Jade\r\nSubtitle: Jennifer-Lynn Hayden\r\nYear: 2015\r\nMaterials: ink, colored pencils, acrylics\r\nInspiration: DC Comics\r\nColors: green, white, brown",
+    "image": "media/images/drawings/4d8b9b035a7244c59437001494988339.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 91,
+    "title": "Batgirl",
+    "subtitle": "Barbara Gordon",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Batgirl\r\nSubtitle: Barbara Gordon\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/2d8e20828e6f40208ece295560ab2f3e.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 92,
+    "title": "Batman",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2010\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/be35a7c1348344efb569172a676e1a4b.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 93,
+    "title": "Batman and Catwoman",
+    "subtitle": "Bruce Wayne and Selina Kyle",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Batman and Catwoman\r\nSubtitle: Bruce Wayne and Selina Kyle\r\nYear: 2010\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4045130fb8024e90b93be16afe8e96f9.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 94,
+    "title": "Black Bolt",
+    "subtitle": "Blackagar Boltagon",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Black Bolt\r\nSubtitle: Blackagar Boltagon\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ab7567e61b344bb0905da379cee975b5.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 95,
+    "title": "Black Cat",
+    "subtitle": "Felicia Hardy",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Black Cat\r\nSubtitle: Felicia Hardy\r\nYear: 2010\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/0ba91fa1e4f74b47ac1d1a43f277b5a4.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 96,
+    "title": "Capitain America",
+    "subtitle": "Steve Rogers",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Capitain America\r\nSubtitle: Steve Rogers\r\nYear: 2011\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a19317b25b16486fb763ef9733b32534.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 97,
+    "title": "Captain America",
+    "subtitle": "Steve Rogers",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Captain America\r\nSubtitle: Steve Rogers\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a3865ce534054200bb2bf11c93c885a7.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 98,
+    "title": "Catwoman",
+    "subtitle": "Selina Kyle",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Catwoman\r\nSubtitle: Selina Kyle\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1b0f89627c154eca9dc0e1cf09aedc6b.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 99,
+    "title": "Catwoman",
+    "subtitle": "Selina Kyle",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Catwoman\r\nSubtitle: Selina Kyle\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/60b2f98236814fab8662f7a9e1ec27fe.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 100,
+    "title": "Colossus",
+    "subtitle": "Piotr \"Peter\" Nikolayevich Rasputin",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Colossus\r\nSubtitle: Piotr \"Peter\" Nikolayevich Rasputin\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6e439aed18f048c0be1c01c92a24822e.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 101,
+    "title": "Daredevil",
+    "subtitle": "Matt Murdock",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Daredevil\r\nSubtitle: Matt Murdock\r\nYear: 2013\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/173b852409864d829dcdccb60427f7b3.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 102,
+    "title": "Daredevil",
+    "subtitle": "Matt Murdock",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Daredevil\r\nSubtitle: Matt Murdock\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/891372d031b543589aa258208d2d781e.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 103,
+    "title": "Daredevil",
+    "subtitle": "Matt Murdock",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Daredevil\r\nSubtitle: Matt Murdock\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d7d59b4f284046888a8336fcfadca723.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 104,
+    "title": "Dark Phoenix",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Dark Phoenix\r\nSubtitle: Jean Elaine Grey\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/03992f34032e4815bd05ac5778178fb9.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 105,
+    "title": "Drax",
+    "subtitle": "Arthur Douglas",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Drax\r\nSubtitle: Arthur Douglas\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/007ad874daa54d708dca897dc63de8e7.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 106,
+    "title": "Deadpool",
+    "subtitle": "Wade Winston Wilson",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Deadpool\r\nSubtitle: Wade Winston Wilson\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b75dca50e8a74a36ae890e48314e02dc.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 107,
+    "title": "Death",
+    "subtitle": "Lady Death",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Death\r\nSubtitle: Lady Death\r\nYear: 2016\r\nMaterials:  ink, watercolor, colored pencils\r\nInspiration: DC Comics\r\nColors: red, blue, black, yellow, brown, green",
+    "image": "media/images/drawings/373f283949d94d80b3a718501f69aa03.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 108,
+    "title": "Drax",
+    "subtitle": "Drax the Destroyer",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Drax\r\nSubtitle: Arthur Douglas\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b5b831d7d0a34dd3a4781f94d878c07a.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 109,
+    "title": "Dr. Doom",
+    "subtitle": "Victor Von Doom",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Dr. Doom\r\nSubtitle: Victor Von Doom\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/f0eb2d98b5254ff4ac73faaddbaa65e4.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 110,
+    "title": "Galacta",
+    "subtitle": "Galacta",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Galacta\r\nSubtitle: Galacta\r\nYear: 2013\r\nMaterials: pencil, colored pencils, watercolor\r\nInspiration: Marvel Comics\r\nColors: red, orange, yellow, green, cyan, vlue, violet, black, brown",
+    "image": "media/images/drawings/3e50d19527344b52a2ea477ec7427ca8.jpg",
+    "type": 1,
+    "created_at": "2021-11-13",
+    "user_id": 1
+  },
+  {
+    "id": 111,
+    "title": "Gamora",
+    "subtitle": "Gamora of the Guardians of the Galaxy",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Gamora\r\nSubtitle: Gamora of the Guardians of the Galaxy\r\nYear: 2013\r\nMaterials: pencil, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: red, yellow, green, black, brown",
+    "image": "media/images/drawings/69bae6572935487094516db537ddfcc5.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 112,
+    "title": "Gamora",
+    "subtitle": "Gamora of the Guardians of the Galaxy",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Gamora\r\nSubtitle: Gamora of the Guardians of the Galaxy\r\nYear: 2015\r\nMaterials:  ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: red, yellow, green, blue, black, brown",
+    "image": "media/images/drawings/66d8caebc6584686b2131607bc8df4ea.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 113,
+    "title": "Green Lantern",
+    "subtitle": "Hal Jordan",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Green Lantern\r\nSubtitle: Alan Scott\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/318683c0c781432d8e51fd6e6229a8c5.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 114,
+    "title": "Grood vs Beast",
+    "subtitle": "Gorilla Grodd",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Grood vs Beast\r\nSubtitle: Gorilla Grodd\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d6feddf963d240c09f832df59d8791ed.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 115,
+    "title": "Hawkman",
+    "subtitle": "Joseph Gardner",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Hawkman\r\nSubtitle: Joseph Gardner\r\nYear: 2010\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/f8c0a393f303476bbb8fc42755dc4630.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 116,
+    "title": "Hellboy",
+    "subtitle": "Anung Un Rama",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Hellboy\r\nSubtitle: Anung Un Rama\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Dark House Comics\r\nColors: black, white",
+    "image": "media/images/drawings/dc2910ef715145f189e41eaa294cfa0e.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 117,
+    "title": "Hellboy",
+    "subtitle": "Anung Un Rama",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Hellboy\r\nSubtitle: Anung Un Rama\r\nYear: 2011\r\nMaterials: ink, pencil\r\nInspiration: Dark House Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e90d63b87b0c49cb88d7234331617f52.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 118,
+    "title": "Huntress",
+    "subtitle": "Helena Rosa Bertinelli",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Huntress\r\nSubtitle: Helena Rosa Bertinelli\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/226387d607df46e39a4e353dd8a3b391.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 119,
+    "title": "Hulk",
+    "subtitle": "Bruce Banner",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Hulk\r\nSubtitle: Bruce Banner\r\nYear: 2008\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9416565ad47a469298a54d4cd584a8ed.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 120,
+    "title": "Ironman and Friends",
+    "subtitle": "Tony Stark",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Ironman and Friends\r\nSubtitle: Tony Stark\r\nYear: 2008\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c9cf52c65b744b53b81b6302f93f8afd.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 121,
+    "title": "Ironman and Ms. Marvel",
+    "subtitle": "Tony Stark",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Ironman and Ms. Marvel\r\nSubtitle: Tony Stark\r\nYear: 2008\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6d608e50ef5b4af39b61d32afcb87fd5.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 122,
+    "title": "Loki",
+    "subtitle": "God of Mischief",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Loki\r\nSubtitle: God of Mischief\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/17a83fab645f4a7fbeac8eb755dc21e4.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 123,
+    "title": "Lorelei",
+    "subtitle": "Asgardian Lorelei",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Lorelei\r\nSubtitle: Asgardian Lorelei\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/312526e6dea349feac07ca1480639e3b.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 124,
+    "title": "Ms. Marvel",
+    "subtitle": "Carol Susan Jane Danvers",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Ms. Marvel\r\nSubtitle: Carol Susan Jane Danvers\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/83a9a551287b40b6a248ab878428acf9.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 125,
+    "title": "Poison Ivy",
+    "subtitle": "Pamela Lillian Isley",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Poison Ivy\r\nSubtitle: Pamela Lillian Isley\r\nYear: 2011\r\nMaterials: Pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e97b7277b01242a9bc829cdc93e11e89.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 126,
+    "title": "Power Girl",
+    "subtitle": "Kara Zor-El",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Power Girl\r\nSubtitle: Kara Zor-El\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/de73087041154a1a94cc08af4f2d4b68.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 127,
+    "title": "Psylocke",
+    "subtitle": "Elizabeth \"Betsy\" Braddock",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Psylocke\r\nSubtitle: Elizabeth \"Betsy\" Braddock\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/fceb8ff1926744cfaaf8a7b65eaf767b.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 128,
+    "title": "Psylocke",
+    "subtitle": "Elizabeth \"Betsy\" Braddock",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Psylocke\r\nSubtitle: Elizabeth \"Betsy\" Braddock\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/813c0f679f83423389d6ac230b6c0846.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 129,
+    "title": "The Punisher",
+    "subtitle": "Francis \"Frank\" Castle",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: The Punisher\r\nSubtitle: Francis \"Frank\" Castle\r\nYear: 2014\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ffad6f9e6fa04bcc923645ac7c6bed46.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 130,
+    "title": "Red Skull",
+    "subtitle": "Johann Shmidt",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Red Skull\r\nSubtitle: Johann Shmidt\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/52187e8b2ce34d2c97c1e45eb773a930.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 131,
+    "title": "Red Skull",
+    "subtitle": "Johann Shmidt",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Red Skull\r\nSubtitle: Johann Shmidt\r\nYear: 2015\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: red, black",
+    "image": "media/images/drawings/1be45ff996ef4cc3aaf93472f611e4b7.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 132,
+    "title": "Rogue",
+    "subtitle": "Anna Marie",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Rogue\r\nSubtitle: Anna Marie\r\nYear: 2013\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: yellow, green, brown",
+    "image": "media/images/drawings/b6758a8a9e7149da983529c4d4b12768.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 133,
+    "title": "Rogue",
+    "subtitle": "Anna Marie",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Rogue\r\nSubtitle: Anna Marie\r\nYear: 2011\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: yellow, green, cyan, blue, brown",
+    "image": "media/images/drawings/83cbebb4c6c24112ab2faa5b5f619b88.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 134,
+    "title": "Scarlet Witch",
+    "subtitle": "Wanda Maximoff",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Scarlet Witch\r\nSubtitle: Wanda Maximoff\r\nYear: 2014\r\nMaterials: Pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c7252a4fe57843b692a29d1513bff0e0.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 135,
+    "title": "Silver Sable",
+    "subtitle": "Silvija Sablinova",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Silver Sable\r\nSubtitle: Silvija Sablinova\r\nYear: 2013\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white, orange, brown",
+    "image": "media/images/drawings/d4c476cc92cd45f3a9c5c0764f1dbc0a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 136,
+    "title": "Skaar",
+    "subtitle": "Skaar",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Skaar\r\nSubtitle: Skaar\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1b56ec84875141088f193e05b8f89158.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 137,
+    "title": "Spawn",
+    "subtitle": "Al Simmons",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Spawn\r\nSubtitle: Al Simmons\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Image Comics\r\nColors: black, white",
+    "image": "media/images/drawings/636b43e5ebc14bdc95107865c0efa4c1.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 138,
+    "title": "Spiderman",
+    "subtitle": "Peter Parker",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Spiderman\r\nSubtitle: Peter Parker\r\nYear: 2014\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b8217a0c1dec4886987bde9e34748e6d.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 139,
+    "title": "Starfire",
+    "subtitle": "Princess Koriand'r",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Starfire\r\nSubtitle: Princess Koriand'r\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/fcaa113eb3934658ae6ee32152b3e320.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 140,
+    "title": "Storm",
+    "subtitle": "Ororo Munroe",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Storm\r\nSubtitle: Ororo Munroe\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/dbe8e3f84f394a518fefa8c0ee815d5e.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 141,
+    "title": "Supergirl",
+    "subtitle": "Kara Zor-El",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Supergirl\r\nSubtitle: Kara Zor-El\r\nYear: 2007\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c14674d9963f4b7bb2e886fc0795bf47.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 142,
+    "title": "Supergirl",
+    "subtitle": "Kara Zor-El",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Supergirl\r\nSubtitle: Kara Zor-El\r\nYear: 2016\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: DC Comics\r\nColors: red, orange, yellow, cyan, blue, brown",
+    "image": "media/images/drawings/ee834082b55a4e8894e97bd26edb6841.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 143,
+    "title": "Superman",
+    "subtitle": "Kal-El",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Superman\r\nSubtitle: Kal-El\r\nYear: 2012\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/38124b8d76cd4c8ba144db62f6cd39e3.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 144,
+    "title": "Spiderman",
+    "subtitle": "Peter Parker",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Spiderman\r\nSubtitle: Peter Parker\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/cfd3b4e11f2242da92995d8351cae001.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 145,
+    "title": "The Thing",
+    "subtitle": "Benjamin Jacob Grimm",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: The Thing\r\nSubtitle: Benjamin Jacob Grimm\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6a987e26e85245c1a272b084727f1d3f.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 146,
+    "title": "Thor",
+    "subtitle": "Thor Odinson",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Thor\r\nSubtitle: Thor Odinson\r\nYear: 2013\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: red, yellow, cyan, blue, brown",
+    "image": "media/images/drawings/d2152878a01c4bbfba4a0ebc1e04d7b8.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 147,
+    "title": "Thor",
+    "subtitle": "Thor Odinson",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Thor\r\nSubtitle: Thor Odinson\r\nYear: 2013\r\nMaterials: ink, pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/2b1a4a181d2c41f887181e4bf0328f58.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 148,
+    "title": "Thor",
+    "subtitle": "Jane Foster",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Thor\r\nSubtitle: Jane Foster\r\nYear: 2013\r\nMaterials: ink, watercolor, colored pencils\r\nInspiration: Marvel Comics\r\nColors: red, yellow, green, cyan, blue, violet, brown",
+    "image": "media/images/drawings/dc41cb5db3ba4f319e257783a6fbdf6a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 149,
+    "title": "Vampirella",
+    "subtitle": "Ella Normandy",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Vampirella\r\nSubtitle: Ella Normandy\r\nYear: 2010\r\nMaterials: pencil\r\nInspiration: Dynamite Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d71abd918331496a875c1949836340b2.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 150,
+    "title": "Vampirella",
+    "subtitle": "Ella Normandy",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Vampirella\r\nSubtitle: Ella Normandy\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration:Dynamite Comics \r\nColors: black, white",
+    "image": "media/images/drawings/d521c4d66c324d3dae9bab439405e2aa.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 151,
+    "title": "Wolverin and Colossus",
+    "subtitle": "James Howlett and Piotr \"Peter\" Nikolayevich Rasputin",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Wolverin and Colossus\r\nSubtitle: James Howlett and Piotr \"Peter\" Nikolayevich Rasputin\r\nYear: 2011\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/2474ddfdb91049019bcff34af76e017e.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 152,
+    "title": "Wolverin",
+    "subtitle": "James Howlett",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Wolverin\r\nSubtitle: James Howlett\r\nYear: 2013\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e41eaaa645b3462598f2585b1f1082e0.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 153,
+    "title": "Wolverin",
+    "subtitle": "James Howlett",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Wolverin\r\nSubtitle: James Howlett\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ad4c7b6f699f45b7829d4a98f3792e9e.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 154,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2015\r\nMaterials: watercolor, acrylics\r\nInspiration: Marvel Comics\r\nColors: red, yellow, cyan, blue, brown",
+    "image": "media/images/drawings/39d3b72c29e64546946423d84ede947a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 155,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2010\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4320f2fed1964b2fa90692ca567bbd4a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 156,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2014\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/654607f8bb734f28922754f76b791dc6.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 157,
+    "title": "X-Force",
+    "subtitle": "Deadpool, psylocke, wolverin, x-23, Fantomex",
+    "description": "Artist: Michael C. Sta. Maria\r\nTitle: X-Force\r\nSubtitle: Deadpool, psylocke, wolverin, x-23, Fantomex\r\nYear: 2015\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1ac11040d42a43bb8e5f826dac44fa7a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 158,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Jim Lee\r\nTitle: Aquaman\r\nSubtitle: Arthur Curry\r\nYear: 2013\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/e9f19496799447afaa6b2c22216d535f.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 159,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Jim Lee\r\nTitle: Aquaman\r\nSubtitle: Arthur Curry\r\nYear: 2013\r\nMaterials: pencil \r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/cb2a37a46d5b489186a06e14be1fa8fc.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 160,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Jim Lee\r\nTitle: Aquaman\r\nSubtitle: Arthur Curry\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6e53ceeac96844029feda5bb3f376a71.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 161,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Jim Lee\r\nTitle: Aquaman\r\nSubtitle: Arthur Curry\r\nYear: 2011\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/3b41bf88689744c1beb0e3fde711dd71.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 162,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Jim Lee\r\nTitle: Aquaman\r\nSubtitle: Arthur Curry\r\nYear: 2011\r\nMaterials: ink \r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/af66639a9b364858bda27d9508d89a90.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 163,
+    "title": "Atrocitus",
+    "subtitle": "Atro",
+    "description": "Artist: Jim Lee\r\nTitle: Atrocitus\r\nSubtitle: Atro\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/02f9d224787b492cb86b229f0cb6cba0.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 164,
+    "title": "Bane",
+    "subtitle": "Bane",
+    "description": "Artist: Jim Lee\r\nTitle: Bane\r\nSubtitle: Bane\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white, red",
+    "image": "media/images/drawings/39b1987a9723419f94b554c7319f0318.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 165,
+    "title": "Batgirl",
+    "subtitle": "Betty Kane",
+    "description": "Artist: Jim Lee\r\nTitle: Batgirl\r\nSubtitle: Betty Kane\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/f01d29f64e5f491e9f8f432c3c60e841.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 166,
+    "title": "Batman",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2008\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/448e8d818f3040439e564a43b98cd454.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 167,
+    "title": "Batman",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2013\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b337881d5d7a45e1952392c29824aea4.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 168,
+    "title": "Batman & Robin",
+    "subtitle": "Bruce Wayne & Dick Grayson",
+    "description": "Artist: Jim Lee\r\nTitle: Batman & Robin\r\nSubtitle: Bruce Wayne & Dick Grayson\r\nYear: 2015\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/02d285e6d478427db48ae43347743a21.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 169,
+    "title": "The Batman",
+    "subtitle": "Bruce Wayne, Selina Kyle and The Joker",
+    "description": "Artist: Jim Lee\r\nTitle: The Batman\r\nSubtitle: Bruce Wayne, Selina Kyle and The Joker\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9cd7d668364e41019e66f4fff3b4234c.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 170,
+    "title": "Batman Inferno",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2009\r\nMaterials: ink \r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4e12ab736fc643b89d8e84b55f2e69c9.png",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 171,
+    "title": "Brainiac",
+    "subtitle": "Vril Dox",
+    "description": "Artist: Jim Lee\r\nTitle: Brainiac\r\nSubtitle: Vril Dox\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: red, black, white",
+    "image": "media/images/drawings/a91d432269e34052a826ba3f947addb5.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 172,
+    "title": "Catwoman",
+    "subtitle": "Selina Kyle",
+    "description": "Artist: Jim Lee\r\nTitle: Catwoman\r\nSubtitle: Selina Kyle\r\nYear: 2012\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ec0f5a9256c848089e5769ab1f37042a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 173,
+    "title": "Colossus",
+    "subtitle": "Piotr \"Peter\" Nikolayevich Rasputin",
+    "description": "Artist: Jim Lee\r\nTitle: Colossus\r\nSubtitle: Piotr \"Peter\" Nikolayevich Rasputin\r\nYear: 2008\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/f458909cf54445a6ac111cf31d00f338.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 174,
+    "title": "Comendia",
+    "subtitle": "Edward Morgan Blake",
+    "description": "Artist: Jim Lee\r\nTitle: Comendia\r\nSubtitle: Edward Morgan Blake\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/3b1ece1f97de47a8b902b1ed55cad398.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 175,
+    "title": "Cyborg",
+    "subtitle": "Victor Stone",
+    "description": "Artist: Jim Lee\r\nTitle: Cyborg\r\nSubtitle: Victor Stone\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/0575b60d01b74d64be4685c6ed29f4e6.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 176,
+    "title": "Darkseid",
+    "subtitle": "Darkseid",
+    "description": "Artist: Jim Lee\r\nTitle: Darkseid\r\nSubtitle: Darkseid\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics \r\nColors: black, white",
+    "image": "media/images/drawings/32f37fc571754d57a3f49f765d41889a.png",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 177,
+    "title": "Deadman",
+    "subtitle": "Boston Brand",
+    "description": "Artist: Jim Lee\r\nTitle: Deadman\r\nSubtitle: Boston Brand\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics \r\nColors: black, white",
+    "image": "media/images/drawings/628b2e2f32a84f62aced47f740d05547.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 178,
+    "title": "Death",
+    "subtitle": "Lady Death",
+    "description": "Artist: Jim Lee\r\nTitle: Death\r\nSubtitle: Lady Death\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics \r\nColors: black, white",
+    "image": "media/images/drawings/37c405388c1b4a3c89ae383d16d93a11.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 179,
+    "title": "Deathstroke",
+    "subtitle": "Slade Wilson",
+    "description": "Artist: Jim Lee\r\nTitle: Deathstroke\r\nSubtitle: Slade Wilson\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/586e10e452d6464a842748d89e84fa66.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 180,
+    "title": "Doomsday",
+    "subtitle": "Doomsday",
+    "description": "Artist: Jim Lee\r\nTitle: Doomsday\r\nSubtitle: Doomsday\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/791c3a920d944bf7902967575192c3aa.png",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 181,
+    "title": "Dr. Doom",
+    "subtitle": "Victor Von Doom",
+    "description": "Artist: Jim Lee\r\nTitle: Dr. Doom\r\nSubtitle: Victor Von Doom\r\nYear: 2007\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/319c9fd811024e06a77bb43fb2021710.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 182,
+    "title": "Dream",
+    "subtitle": "Dream",
+    "description": "Artist: Jim Lee\r\nTitle: Dream\r\nSubtitle: Dream\r\nYear: 2010\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c13404c65c29449d8cbc47c6331f6dd3.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 183,
+    "title": "Dream",
+    "subtitle": "Dream",
+    "description": "Artist: Jim Lee\r\nTitle: Dream\r\nSubtitle: Dream\r\nYear: 2020\r\nMaterials: ink, watercolor, acrylics\r\nInspiration: DC Comics\r\nColors: red, yellow, black, white",
+    "image": "media/images/drawings/eef3b9605ef94ce080cc92e4ff8ac91f.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 184,
+    "title": "Elektra",
+    "subtitle": "Elektra Natchios",
+    "description": "Artist: Jim Lee\r\nTitle: Elektra\r\nSubtitle: Elektra Natchios\r\nYear: 2017\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/3748e4a694534bfabb229a9ead37a86a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 185,
+    "title": "Fantastic Four",
+    "subtitle": "Mister Fantastic, Human Torch, Invisible Girl, Thing, Dr. Doom",
+    "description": "Artist: Jim Lee\r\nTitle: Fantastic Four\r\nSubtitle: Mister Fantastic, Human Torch, Invisible Girl, Thing, Dr. Doom\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/6d35272584de43ff968e065aad127777.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 186,
+    "title": "Galactus",
+    "subtitle": "Silver Surfer",
+    "description": "Artist: Jim Lee\r\nTitle: Galactus\r\nSubtitle: Silver Surfer\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4640449861be4b6ea52eb02ee3898195.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 187,
+    "title": "Gambit",
+    "subtitle": "Remy Etienne LeBeau",
+    "description": "Artist: Jim Lee\r\nTitle: Gambit\r\nSubtitle: Remy Etienne LeBeau\r\nYear: 2019\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7e320c6436cf45b4809ce3df4313cd7c.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 188,
+    "title": "Gambit",
+    "subtitle": "Remy Etienne LeBeau",
+    "description": "Artist: Jim Lee\r\nTitle: Gambit\r\nSubtitle: Remy Etienne LeBeau\r\nYear: 2019\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/cc1894d94f564e0c9b8600af9d500024.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 189,
+    "title": "Gen13",
+    "subtitle": "Gen13",
+    "description": "Artist: Jim Lee\r\nTitle: Gen13\r\nSubtitle: Gen13\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/53bfe3062a774459bcf5ae3faff14887.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 190,
+    "title": "Green Lantern",
+    "subtitle": "Hal Jordan",
+    "description": "Artist: Jim Lee\r\nTitle: Green Lantern\r\nSubtitle: Hal Jordan\r\nYear: 2019\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/3bb431c921c642c19ec697a060bef7b3.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 191,
+    "title": "Green Lantern",
+    "subtitle": "Hal Jordan",
+    "description": "Artist: Jim Lee\r\nTitle: Green Lantern\r\nSubtitle: Hal Jordan\r\nYear: 2009\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/8c1977b63d4449149f470efa658363fa.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 192,
+    "title": "Green Lantern",
+    "subtitle": "Hal Jordan",
+    "description": "Artist: Jim Lee\r\nTitle: Green Lantern\r\nSubtitle: Hal Jordan\r\nYear: 2019\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1ed200a705fb42c59d414a35915fd68e.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 193,
+    "title": "Green Lantern",
+    "subtitle": "John Stewart",
+    "description": "Artist: Jim Lee\r\nTitle: Green Lantern\r\nSubtitle: John Stewart\r\nYear: 2018\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7a43a052a3494f44a94bcdbb8d4321b9.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 194,
+    "title": "Green Lantern",
+    "subtitle": "Hal Jordan",
+    "description": "Artist: Jim Lee\r\nTitle: Green Lantern\r\nSubtitle: Hal Jordan\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/edc2bc8f2cfa41a09d9fa1312475b60a.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 195,
+    "title": "Green Lantern",
+    "subtitle": "John Stewart",
+    "description": "Artist: Jim Lee\r\nTitle: Green Lantern\r\nSubtitle: John Stewart\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/386d4f7dce4646c38b17637566999bad.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 196,
+    "title": "Hawkgirl",
+    "subtitle": "Shiera Sanders Hall",
+    "description": "Artist: Jim Lee\r\nTitle: Hawkgirl\r\nSubtitle: Shiera Sanders Hall\r\nYear: 2018\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9bf1c3e16a7445008b85b2c1b707433c.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 197,
+    "title": "Hawkgirl",
+    "subtitle": "Shiera Sanders Hall",
+    "description": "Artist: Jim Lee\r\nTitle: Hawkgirl\r\nSubtitle: Shiera Sanders Hall\r\nYear: 2020\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c34a6850b4c04007b06201c3944d8e99.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 198,
+    "title": "Huntress",
+    "subtitle": "Helena Rosa Bertinelli",
+    "description": "Artist: Jim Lee\r\nTitle: Huntress\r\nSubtitle: Helena Rosa Bertinelli\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1c1e1ea6b13845f08ca05772b9038a46.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 199,
+    "title": "Injustice League",
+    "subtitle": "Injustice",
+    "description": "Artist: Jim Lee\r\nTitle: Injustice League\r\nSubtitle: Injustice\r\nYear: 2019\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ef5751e7e1364b6998c069c231b53b5e.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 200,
+    "title": "Invisible Girl",
+    "subtitle": "Susan \"Sue\" Storm Richards",
+    "description": "Artist: Jim Lee\r\nTitle: Invisible Girl\r\nSubtitle: Susan \"Sue\" Storm Richards\r\nYear: 2008\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b7c476d9c15b4365adfd152aede8dabf.png",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 201,
+    "title": "Ironman",
+    "subtitle": "Tony Stark",
+    "description": "Artist: Jim Lee\r\nTitle: Ironman\r\nSubtitle: Tony Stark\r\nYear: 2008\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/29fb7e73a3ac41e69f450d90578d7e69.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 202,
+    "title": "Jean Grey",
+    "subtitle": "Jean Elaine Grey",
+    "description": "Artist: Jim Lee\r\nTitle: Jean Grey\r\nSubtitle: Jean Elaine Grey\r\nYear: 2017\r\nMaterials: digital\r\nInspiration: Marvel Comics\r\nColors: red, yellow, green, blue, violet",
+    "image": "media/images/drawings/ab2fb8c50af04279885aae2077690d88.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 203,
+    "title": "Aquaman",
+    "subtitle": "Arthur Curry",
+    "description": "Artist: Jim Lee\r\nTitle: Aquaman\r\nSubtitle: Arthur Curry\r\nYear: 2021\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/482a3b933ce84352970895d991d1fda5.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 204,
+    "title": "Green Arrow",
+    "subtitle": "Oliver Jonas Queen",
+    "description": "Artist: Jim Lee\r\nTitle: Green Arrow\r\nSubtitle: Oliver Jonas Queen\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/5f76e4cf3de34e4fa04e3100a7647bb9.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 205,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2012\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/c39fe6692f8e461fb03d292a468e2907.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 206,
+    "title": "Joker",
+    "subtitle": "Jack",
+    "description": "Artist: Jim Lee\r\nTitle: Joker\r\nSubtitle: Jack\r\nYear: 2017\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/215be79df09f41c8851737189dc98d68.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 207,
+    "title": "Joker vs Batman",
+    "subtitle": "Jack vs Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Joker vs Batman\r\nSubtitle: Jack vs Bruce Wayne\r\nYear: 2012\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b36a370d6aaf47fb879277366664d9aa.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 208,
+    "title": "Joker",
+    "subtitle": "Jack",
+    "description": "Artist: Jim Lee\r\nTitle: Joker\r\nSubtitle: Jack\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7ee1f9e6316346069c88f1791a7f8f55.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 209,
+    "title": "Justice League",
+    "subtitle": "Aquaman, Superman, Wonder Woman, Green Lantern, Flash, Cyborg, Batman",
+    "description": "Artist: Jim Lee\r\nTitle: Justice League\r\nSubtitle: Aquaman, Superman, Wonder Woman, Green Lantern, Flash, Cyborg, Batman\r\nYear: 2017\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/7c5cc4d3fb3f47bb926002249d0e72eb.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 210,
+    "title": "Lobo",
+    "subtitle": "Maximus Lobo",
+    "description": "Artist: Jim Lee\r\nTitle: Lobo\r\nSubtitle: Maximus Lobo\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a92eb8c9646a48a0bd94e8119f866e6b.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 211,
+    "title": "Magneto",
+    "subtitle": "Max Eisenhardt",
+    "description": "Artist: Jim Lee\r\nTitle: Magneto\r\nSubtitle: Max Eisenhardt\r\nYear: 2008\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ed6d1bdffeeb43afa9e03f5bb149c2a2.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 212,
+    "title": "Mera",
+    "subtitle": "Mera the Atlantean",
+    "description": "Artist: Jim Lee\r\nTitle: Mera\r\nSubtitle: Mera the Atlantean\r\nYear: 2018\r\nMaterials: digital\r\nInspiration: DC Comics\r\nColors: yellow, green, cyan, blue, brown",
+    "image": "media/images/drawings/2bd96c06822a4037be01a3523b0699b8.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 213,
+    "title": "Mr. Freeze",
+    "subtitle": "Victor Fries",
+    "description": "Artist: Jim Lee\r\nTitle: Mr. Freeze\r\nSubtitle: Victor Fries\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ced5cff6fec2460bace4fa6a1cf52b66.png",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 214,
+    "title": "Mr. Freeze",
+    "subtitle": "Victor Fries",
+    "description": "Artist: Jim Lee\r\nTitle: Mr. Freeze\r\nSubtitle: Victor Fries\r\nYear: 2018\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/ca81e49fbd65428a809c67ef2fe36094.jpg",
+    "type": 1,
+    "created_at": "2021-11-14",
+    "user_id": 1
+  },
+  {
+    "id": 215,
+    "title": "Poison Ivy",
+    "subtitle": "Pamela Lillian Isley",
+    "description": "Artist: Jim Lee\r\nTitle: Poison Ivy\r\nSubtitle: Pamela Lillian Isley\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/176accfb863e4398aacc2e0e62866386.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 216,
+    "title": "Poison Ivy",
+    "subtitle": "Pamela Lillian Isley",
+    "description": "Artist: Jim Lee\r\nTitle: Poison Ivy\r\nSubtitle: Pamela Lillian Isley\r\nYear: 2006\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/73bbcb35d91845748f2e4f5fb7065a74.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 217,
+    "title": "Psylocke",
+    "subtitle": "Elizabeth \"Betsy\" Braddock",
+    "description": "Artist: Jim Lee\r\nTitle: Psylocke\r\nSubtitle: Elizabeth \"Betsy\" Braddock\r\nYear: 2009\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/943b032b855946adbd9420b56ccbce08.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 218,
+    "title": "Psylocke",
+    "subtitle": "Elizabeth \"Betsy\" Braddock",
+    "description": "Artist: Jim Lee\r\nTitle: Psylocke\r\nSubtitle: Elizabeth \"Betsy\" Braddock\r\nYear: 2008\r\nMaterials: pencil\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/1e8880a7d50845a8aa867dcb43f8f1cd.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 219,
+    "title": "Red Death",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Red Death\r\nSubtitle: Bruce Wayne\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/25e9c47283f74efcb00f701a5a02d025.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 220,
+    "title": "Sandman",
+    "subtitle": "Sandman",
+    "description": "Artist: Jim Lee\r\nTitle: Sandman\r\nSubtitle: Sandman\r\nYear: 2020\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/fd21e65ebc2b47dbadb51ddb72396344.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 221,
+    "title": "Spawn",
+    "subtitle": "Al Simmons",
+    "description": "Artist: Jim Lee\r\nTitle: Spawn\r\nSubtitle: Al Simmons\r\nYear: 2018\r\nMaterials: ink\r\nInspiration: Image Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d6425f9ab3f8440296c72cc06eb3eb1f.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 222,
+    "title": "Starfire",
+    "subtitle": "Princess Koriand'r",
+    "description": "Artist: Jim Lee\r\nTitle: Starfire\r\nSubtitle: Princess Koriand'r\r\nYear: 2018\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/072a7f6e99f045afa6e33482562f7ce3.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 223,
+    "title": "Justice League",
+    "subtitle": "Superman & Wonder Woman",
+    "description": "Artist: Jim Lee\r\nTitle: Justice League\r\nSubtitle: Superman & Wonder Woman\r\nYear: 2004\r\nMaterials: ink, digital\r\nInspiration: DC Comics\r\nColors: red, yellow, cyan, blue, brown",
+    "image": "media/images/drawings/b8e0b226e60b491d9ce485c4454d2f83.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 224,
+    "title": "Swamp Thing",
+    "subtitle": "Alexander \"Alex\" Olsen",
+    "description": "Artist: Jim Lee\r\nTitle: Swamp Thing\r\nSubtitle: Alexander \"Alex\" Olsen\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/fdedab45b7aa425787b25bbb3f60617b.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 225,
+    "title": "Thanos",
+    "subtitle": "Thanos",
+    "description": "Artist: Jim Lee\r\nTitle: Thanos\r\nSubtitle: Thanos\r\nYear: 2018\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/52183ce0bf71485cbeca0c23872e06d0.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 226,
+    "title": "Batman",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2020\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/a36912ab24a64053b122331b7b849012.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 227,
+    "title": "Batman",
+    "subtitle": "Bruce Wayne",
+    "description": "Artist: Jim Lee\r\nTitle: Batman\r\nSubtitle: Bruce Wayne\r\nYear: 2021\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/4c8630d52d8a4ca48976153ea241c684.png",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 228,
+    "title": "Flash",
+    "subtitle": "Barry Allen",
+    "description": "Artist: Jim Lee\r\nTitle: Flash\r\nSubtitle: Barry Allen\r\nYear: 2019\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9eb18a1128a44c4fbbde05075519576c.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 229,
+    "title": "Flash",
+    "subtitle": "Barry Allen",
+    "description": "Artist: Jim Lee\r\nTitle: Flash\r\nSubtitle: Barry Allen\r\nYear: \r\nMaterials: \r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/27187f17d87f4ba782c146d6201f1e9d.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 230,
+    "title": "Penguin",
+    "subtitle": "Oswald Chesterfield Cobblepot",
+    "description": "Artist: Jim Lee\r\nTitle: Penguin\r\nSubtitle: Oswald Chesterfield Cobblepot\r\nYear: 2021\r\nMaterials: ink, digital\r\nInspiration: DC Comics\r\nColors: red, cyan, violet",
+    "image": "media/images/drawings/f0e7e37e128449a8b8395f54739cf971.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 231,
+    "title": "Penguin",
+    "subtitle": "Oswald Chesterfield Cobblepot",
+    "description": "Artist: Jim Lee\r\nTitle: Penguin\r\nSubtitle: Oswald Chesterfield Cobblepot\r\nYear: 2021\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/5360f8dd38a347b8a0b9f9cdf1c5f976.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 232,
+    "title": "Voodoo",
+    "subtitle": "Priscilla Kitaen",
+    "description": "Artist: Jim Lee\r\nTitle: Voodoo\r\nSubtitle: Priscilla Kitaen\r\nYear: 2007\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/b40d457ad7e44213b249b8c29c82237e.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 233,
+    "title": "Wolverin",
+    "subtitle": "James Howlett",
+    "description": "Artist: Jim Lee\r\nTitle: Wolverin\r\nSubtitle: James Howlett\r\nYear: 2007\r\nMaterials: ink\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/323a2f5ef28c4021ad06c4fc954fc51f.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 234,
+    "title": "Wolverin",
+    "subtitle": "James Howlett",
+    "description": "Artist: Jim Lee\r\nTitle: Wolverin\r\nSubtitle: James Howlett\r\nYear: 2008\r\nMaterials: iunk, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/335439a7868249fe88bf82a273022854.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 235,
+    "title": "Wolverin",
+    "subtitle": "James Howlett",
+    "description": "Artist: Jim Lee\r\nTitle: Wolverin\r\nSubtitle: James Howlett\r\nYear: 2018\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/bd44e7ebb0794cdeb7fd65ef9a186843.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 236,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2020\r\nMaterials: pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/5b714b7993424e1aaf5f067e3be62d0e.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 237,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/3fc9373a4a924fc7b13a9660cc3bf962.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 238,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2019\r\nMaterials: ink, watercolor\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/9634742e02a0489495a3dcd49daf023a.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 239,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2019\r\nMaterials: ink, pencil\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/507ca751369041ccb717f9697c804eb9.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 240,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2020\r\nMaterials: ink\r\nInspiration: DC Comics\r\nColors: black, white",
+    "image": "media/images/drawings/cd308ba08eb9406da011baf28a8564f8.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 241,
+    "title": "Wonder Woman",
+    "subtitle": "Princess Diana of Themyscira",
+    "description": "Artist: Jim Lee\r\nTitle: Wonder Woman\r\nSubtitle: Princess Diana of Themyscira\r\nYear: 2020\r\nMaterials: ink, acrylics\r\nInspiration: DC Comics\r\nColors: red, orange, yellow, blue, brown",
+    "image": "media/images/drawings/9ab9685900504626a80f7313fde4611a.png",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  },
+  {
+    "id": 242,
+    "title": "Wolverin",
+    "subtitle": "James Howlett",
+    "description": "Artist: Jim Lee\r\nTitle: Wolverin\r\nSubtitle: James Howlett\r\nYear: 2018\r\nMaterials: ink, watercolor\r\nInspiration: Marvel Comics\r\nColors: black, white",
+    "image": "media/images/drawings/d16392bbe4c84d7288318bb38a8e8edc.jpg",
+    "type": 1,
+    "created_at": "2021-11-15",
+    "user_id": 1
+  }
+]
